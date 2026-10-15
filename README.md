@@ -7,13 +7,13 @@ A warm, paper-toned theme sampled from the RubyLLM visual identity.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/crmne/omarchy-ruby-llm-theme.git
+omarchy theme install https://github.com/crmne/omarchy-ruby-llm-light-theme.git
 ```
 
 Activate it with:
 
 ```bash
-omarchy theme set ruby-llm
+omarchy theme set ruby-llm-light
 ```
 
 ## Architecture
@@ -49,10 +49,11 @@ Gruvbox palette the site uses for code.
 ## Wallpapers
 
 - `01-rubyllm-gem.jpg`: The RubyLLM gem on the homepage grid, made for this theme
-- `02-ruby-crystal.jpg`: [Jason D](https://unsplash.com/photos/VKLJ-BJlszE) on Unsplash
-- `03-white-lines.jpg`: [H&CO](https://unsplash.com/photos/1kJwc8-98Nk) on Unsplash
-- `04-red-door.jpg`: [Marion Mesbah](https://unsplash.com/photos/gyWIBOqVL8Q) on Unsplash
-- `05-sand-crest.jpg`: [Brandon Smith](https://unsplash.com/photos/3fN13Uap0d4) on Unsplash
+- `02-rubyllm-bubbles.jpg`: The RubyLLM pixel chat bubble, made for this theme
+- `03-ruby-crystal.jpg`: [Jason D](https://unsplash.com/photos/VKLJ-BJlszE) on Unsplash
+- `04-white-lines.jpg`: [H&CO](https://unsplash.com/photos/1kJwc8-98Nk) on Unsplash
+- `05-red-door.jpg`: [Marion Mesbah](https://unsplash.com/photos/gyWIBOqVL8Q) on Unsplash
+- `06-sand-crest.jpg`: [Brandon Smith](https://unsplash.com/photos/3fN13Uap0d4) on Unsplash
 
 Photos are used under the [Unsplash License](https://unsplash.com/license).
 
