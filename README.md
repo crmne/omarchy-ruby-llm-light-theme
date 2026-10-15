@@ -49,11 +49,12 @@ Gruvbox palette the site uses for code.
 ## Wallpapers
 
 - `01-rubyllm-gem.jpg`: The RubyLLM gem on the homepage grid, made for this theme
-- `02-rubyllm-bubbles.jpg`: The RubyLLM pixel chat bubble, made for this theme
-- `03-ruby-crystal.jpg`: [Jason D](https://unsplash.com/photos/VKLJ-BJlszE) on Unsplash
-- `04-white-lines.jpg`: [H&CO](https://unsplash.com/photos/1kJwc8-98Nk) on Unsplash
-- `05-red-door.jpg`: [Marion Mesbah](https://unsplash.com/photos/gyWIBOqVL8Q) on Unsplash
-- `06-sand-crest.jpg`: [Brandon Smith](https://unsplash.com/photos/3fN13Uap0d4) on Unsplash
+- `02-rubyllm-logotype.jpg`: The logo with its name, centered
+- `03-rubyllm-bubbles.jpg`: The RubyLLM pixel chat bubble, made for this theme
+- `04-ruby-crystal.jpg`: [Jason D](https://unsplash.com/photos/VKLJ-BJlszE) on Unsplash
+- `05-white-lines.jpg`: [H&CO](https://unsplash.com/photos/1kJwc8-98Nk) on Unsplash
+- `06-red-door.jpg`: [Marion Mesbah](https://unsplash.com/photos/gyWIBOqVL8Q) on Unsplash
+- `07-sand-crest.jpg`: [Brandon Smith](https://unsplash.com/photos/3fN13Uap0d4) on Unsplash
 
 Photos are used under the [Unsplash License](https://unsplash.com/license).
 
