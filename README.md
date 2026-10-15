@@ -24,6 +24,8 @@ This is a declarative Omarchy Quattro theme. It provides only:
 - A GNOME icon theme choice in `icons.theme`
 - Wallpapers in `backgrounds/`
 - A selector preview in `preview.png`
+- A RubyLLM boot unlock logo in `unlock.png`, with its selector preview in
+  `preview-unlock.png`
 
 Omarchy generates and applies the terminal, shell, Hyprland, editor, browser,
 Obsidian, keyboard, and btop integrations from the semantic palette. The theme
@@ -32,14 +34,27 @@ configuration files.
 
 ## Core colors
 
+Sampled from the rubyllm.com design tokens. The ANSI colors follow the
+Gruvbox palette the site uses for code.
+
 - Background: `#f7f3f1`
-- Foreground: `#3a3430`
-- Muted: `#726f6c`
+- Surface: `#faf9f7`
+- Section tint: `#f3ece7`
+- Foreground: `#2c2926`
+- Secondary text: `#5c5353`
+- Muted text: `#796b67`
 - Ruby red: `#b30000`
 - Bright ruby: `#c9271e`
-- Green: `#396847`
-- Blue: `#205ea6`
-- Cyan: `#287980`
+
+## Wallpapers
+
+- `01-rubyllm-gem.jpg`: The RubyLLM gem on the homepage grid, made for this theme
+- `02-ruby-crystal.jpg`: [Jason D](https://unsplash.com/photos/VKLJ-BJlszE) on Unsplash
+- `03-white-lines.jpg`: [H&CO](https://unsplash.com/photos/1kJwc8-98Nk) on Unsplash
+- `04-red-door.jpg`: [Marion Mesbah](https://unsplash.com/photos/gyWIBOqVL8Q) on Unsplash
+- `05-sand-crest.jpg`: [Brandon Smith](https://unsplash.com/photos/3fN13Uap0d4) on Unsplash
+
+Photos are used under the [Unsplash License](https://unsplash.com/license).
 
 ## Requirements
 
